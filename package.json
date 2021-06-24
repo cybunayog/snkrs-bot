@@ -1,0 +1,23 @@
+{
+  "name": "snkrs-bot",
+  "version": "1.0.0",
+  "description": "No more L's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybunayog/snkrs-bot.git"
+  },
+  "keywords": [
+    "snkrs",
+    "nike"
+  ],
+  "author": "Cy Bunayog",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cybunayog/snkrs-bot/issues"
+  },
+  "homepage": "https://github.com/cybunayog/snkrs-bot#readme"
+}
